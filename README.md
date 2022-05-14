@@ -2,7 +2,9 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning HTML,css, JavaScript and jQuery
 - 💞️ I’m looking to collaborate to learn
-- 📫 How to reach me 21sika5@g
+- 📫 How to reach me 21sirka5@gmail.com
+
+
 
 mail.com
 
